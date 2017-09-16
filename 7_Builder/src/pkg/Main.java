@@ -1,4 +1,4 @@
-package pkg.builder.pkg;
+package pkg;
 
 import pkg.builder.Director;
 import pkg.builder.HTMLBuilder;
